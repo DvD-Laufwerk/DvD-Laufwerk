@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DvD-Laufwerk
-- 👀 I’m interested in programming, who would've thought
-- 🌱 I’m currently learning computer sience
-- 💞️ I’m looking to collaborate on graphical computing/networking
-- 📫 How to reach me you wont
+- 👀 I’m interested in: programming, who would've thought
+- 🌱 I’m currently learning: computer sience
+- 💞️ I’m looking to collaborate on: graphical computing/networking
+- 📫 How to reach me: you won't
 - ⚡ Fun fact: ...
 
 <!---
